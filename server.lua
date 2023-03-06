@@ -1,5 +1,5 @@
 -- Replace the webhook URL with your own Discord webhook URL
-local webhookUrl = "https://canary.discord.com/api/webhooks/1082296118710390794/5S2owAZmaAWjatjQya93gg--w5_wTuqZcq274qSWWQbH388RE_3oWwqFMSMt4s58ms6V"
+local webhookUrl = "WEBHOOK URL HERE"
 -- Customize the embed color (RGB)
 local embedColor = {255, 0, 0}
 
